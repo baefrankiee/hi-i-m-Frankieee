@@ -1,0 +1,59 @@
+/*********tags*****/
+body{
+    background-color:whitesmoke;
+}
+/*****class******/
+.flex{
+    display: flex;
+    align-items: flex-start;
+    margin: 20px 0;
+}
+.emoji{
+    height: 30px;
+    width: 30px;
+    flex-wrap: wrap;
+}
+.bae{
+    height: 140px;
+    margin: 0 20px;
+    flex-wrap: wrap;
+    width: 160px;
+}
+.flag{
+    width: 30px;
+    height: 30px;
+flex-wrap: wrap;
+}
+/********id********/
+#head{
+    font-family: sans-serif;
+}
+#head1{
+    font-family: cursive;
+    font-size: 15px;
+    width:70%;
+    margin: 0;
+}
+#HEAD2{
+    font-family: sans-serif;
+    color: royalblue;
+    font-size: 24px;
+}
+#head3{
+    font-family: sans-serif;
+    color: royalblue;   
+    font-size: 24px;
+}
+#headd1{
+    font-family: cursive;
+    font-size: 15px;
+}
+#headd2{
+    font-family: sans-serif;
+    color: royalblue;
+    font-size: 24px;
+}
+#head4{
+    font-family: cursive;
+    font-size: 15px;
+}
